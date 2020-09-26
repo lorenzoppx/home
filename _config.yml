@@ -57,11 +57,12 @@ email: lorenzopx@gmail.com
 
 authors:
     ravpacheco:
-        name: Lorenzo Piccoli
-        bio: Family first
-        external-image: false
-        picture: assets/images/profile.jpg
+        name: Rafael Pacheco
+        bio: Just another guy that learn all the days
+        #external-image: false
+        #picture: assets/images/profile.jpg
         #twitter: ravpachecco
+   
     
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
