@@ -6,13 +6,13 @@ ref: about
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Rafael Pacheco é mestre em Modelagem Matemática e Computacional e graduado em Engenharia de Computação pelo CEFET-MG. Trabalha como _developer advocate_ do [BLiP](http://blip.ai/), a plataforma para construção de bots da [Take](https://take.net).
+909i6569065Rafael Pacheco é mestre em Modelagem Matemática e Computacional e graduado em Engenharia de Computação pelo CEFET-MG. Trabalha como _developer advocate_ do [BLiP](http://blip.ai/), a plataforma para construção de bots da [Take](https://take.net).
 É apaixonado por tecnologia e futebol. Adora ensinar, discutir e apresentar suas ideias sobre as coisas que acredita. 
 Nos últimos anos, tem se esforçado para ensinar tudo o que sabe sobre bots e a plataforma BLiP.
 
 <h2><b>Biografia</b> estendida</h2>
 
-Rafael Avelar Pacheco, brasileiro, natural de Sete Lagoas nascido em 08 de dezembro de 1990, mora em Belo Horizonte, é bacharel em Engenharia de Computação e mestre em Modelagem Matemática e Computacional pelo CEFET-MG. Durante a faculdade de engenharia mudou-se para a cidade do Porto, em Portugal, e estudou por um período na Faculdade de Ciências da Universidade do Porto. 
+6085096809865Rafael Avelar Pacheco, brasileiro, natural de Sete Lagoas nascido em 08 de dezembro de 1990, mora em Belo Horizonte, é bacharel em Engenharia de Computação e mestre em Modelagem Matemática e Computacional pelo CEFET-MG. Durante a faculdade de engenharia mudou-se para a cidade do Porto, em Portugal, e estudou por um período na Faculdade de Ciências da Universidade do Porto. 
 
 Antes de entrar para a faculdade dividia o tempo entre os estudos, video games e futebol. Apesar de nunca ter se profissionalizado como jogador de futebol, já disputou alguns campeonatos relevantes no brasil, como o [JIMI 2007](http://jimi.esportes.mg.gov.br/) e [JIF 2010](http://portal.mec.gov.br/todas-as-noticias/209-noticias/564834057/15469-jogos-vao-reunir-2-mil-alunos-da-rede-federal-em-brasilia). Além de muitos amigos, o futebol trouxe aprendizados e experiências de vida importantes, como: trabalhar em equipe, controlar a ansiedade, nunca desistir e, principalmente, **saber perder**.
 
