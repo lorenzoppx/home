@@ -24,7 +24,7 @@ real-url: https://lorenzoppx.github.io/home
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-62025300-1'
+# analytics-google: 'UA-179088370-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -38,7 +38,7 @@ disqus:
 # if you don't have any of social below, comment the line
 #facebook: ravpacheco
 #twitter: ravpachecco
-google: lorenzopx@gmail.com
+#google: lorenzopx@gmail.com
 instagram: Lorenzo.xavier
 # pinterest: mypinterest
 #linkedin: ravpacheco
