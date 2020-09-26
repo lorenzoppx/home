@@ -1,9 +1,8 @@
 # main text of home
-name: Rafael Pacheco
-bio: I'm trying to do a better world through code
-
+name: Lorenzo Piccoli
+bio: Family first
 # twitter summary info
-description: I love all about code. I'm fullstack developer and tech lead on @Takenet. Reactive programmer enthusiast and Akka develop BH meetup organizer. 
+description: I love all about code. I'm a developer of computer vision and microcontrollers. 
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,9 +15,9 @@ resume: true
 resume-external: true
 resume-url: https://goo.gl/OFHFV8
 resume-pt-url: https://goo.gl/LRzSG3
-lattes-url: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4479514T6&idiomaExibicao=2
-lattes-pt-url: http://lattes.cnpq.br/6347254071071364
-url: https://lorenzoppx.github.io/SITE2
+lattes-url: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2184126T0&tokenCaptchar=03AGdBq259t4dIupEuqktNk30JdJub2YQ3BZS4drSh0bDn8MlqXFiLMZqCR6xkOpI41d5vSWN8PurLoDeStBrdyUnlxMvtp0QKpXOBIotrl99nIARm3TAaH3JFvHIbXoqGIpe8TQaNuLwptFeKJLIOEx3kl3zbe14BMfLQom0yxzl5eqhs5cMu6OKxbH9G6qcamgTTCF9W8PxWlcsZ9k4helCKLkp87HF3-XQDkb4yLASrZYUgGaShNQQOq7DnNtoD4nBmgPUQjjXxO_q4jRjMwVZp0rN9IohWCkxidAc0JgzsKVTfE0NYhL42N3u-aKnYmoLXbzpCLc2z6qR8-gxW64KfdZjqnM8zyxrncA48n7iR4_jOEhEcC-VIW7VPFUSxNtkH1At2k2aNNEtxGI0ObPpPmvzAyVfjErApziWnAQRK8M6Trh0vkzvHn-tZapAr0A5psYLzw7NJ8fB2qzJ2oZRbIIsO-YkktQ
+lattes-pt-url: http://lattes.cnpq.br/5454212515441649
+url: https://lorenzoppx.github.io/
 
 # your url: http://USERNAME.github.io
 real-url: https://lorenzoppx.github.io
@@ -57,9 +56,9 @@ email: lorenzopx@gmail.com
 # lanyrd: mylanyrd
 
 authors:
-    ravpacheco:
-        name: Lorenzo Xavier
-        bio: Flamenguista programador
+    ravpacheco_o_:
+        name: Lorenzo Piccoli
+        bio: Family first
         external-image: false
         picture: assets/images/profile.jpg
         #twitter: ravpachecco
