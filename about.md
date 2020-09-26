@@ -4,7 +4,7 @@ layout: page
 lang: en
 ref: about
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image](https://avatars0.githubusercontent.com/u/58193219?s=400&u=26a5579c1fdc44cc81077b2d0eacb36695184793&v=4)
 
 Rafael Pacheco is Master of Mathematical and Computational Modelling and Bachelor of Computer Engineering at CEFET-MG.
 Works as a _developer advocate_ at [BLiP](http://blip.ai/), [Take's](https://take.net) chatbot platform.
